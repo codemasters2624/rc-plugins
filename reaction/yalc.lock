@@ -1,0 +1,11 @@
+{
+  "version": "v1",
+  "packages": {
+    "@reactioncommerce/api-plugin-units": {
+      "signature": "de00bbbabfe27631ba0330f1189b5c9a"
+    },
+    "@reactioncommerce/api-plugin-doors": {
+      "signature": "3de4fe34b9b4f9d8bff821f34b107982"
+    }
+  }
+}
